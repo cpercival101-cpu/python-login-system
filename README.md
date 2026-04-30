@@ -3,7 +3,7 @@ Simple python login system with validation and attempts
 ## Features
 - Username and Password validation
 - Limited login attempts (3)
-- Lockout message agter failed attempts
+- Lockout message after failed attempts
 - Loop control and conditional logic
 ## Concepts Practiced
 - while loops
