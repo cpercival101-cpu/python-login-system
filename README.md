@@ -1,5 +1,5 @@
 # python-login-system
-Simple python login system with validation and attempts
+Python login system with input validation, attempt tracking, and account lockout logic.
 ## Features
 - Username and Password validation
 - Limited login attempts (3)
